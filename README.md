@@ -38,7 +38,7 @@ In the additional_assets folder, you'll find alternative backgrounds and other a
 Contributions to the game are welcome! If you have a suggestion for an improvement or find a bug, please open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Apache License - see the LICENSE file for details.
 
 ## Acknowledgments
 - Thanks to the original Flappy Bird game for the inspiration.
